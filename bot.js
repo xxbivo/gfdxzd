@@ -330,4 +330,4 @@ client.on('message', msg => {
    }
    });
 /////
-client.login('NjE0MjU0MTM0MTExMTA5MTIw.XV8y5A.uttGJkIbdGa2ESPAMnxkl6rb8nQ');
+client.login(process.env.BOT_TOKEN);
